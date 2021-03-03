@@ -1,0 +1,33 @@
+#main_circle {
+  fill: rgb(230, 76, 115);
+}
+
+#eye_left {
+  stroke: white;
+  stroke-width: 1;
+  fill: white;
+}
+
+#eye_right {
+  stroke: white;
+  stroke-width: 1;
+  fill: white;
+}
+
+#neck {
+  stroke: rgb(223, 221, 221);
+  stroke-width: 1;
+  fill: rgb(223, 221, 221);
+}
+
+#path {
+  stroke: white;
+  stroke-width: 1;
+  fill: transparent;
+}
+
+#mouth {
+  stroke: white;
+  stroke-width: 2;
+  fill: transparent;
+}
